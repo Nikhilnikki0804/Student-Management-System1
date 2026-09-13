@@ -278,11 +278,11 @@ Add project screenshots here:
 
 ## 👨‍💻 Author
 
-**Sarath Babu Endluri**
+**Chowdam Nikhil**
 
-📧 sarathendluri90@gmail.com  
-🔗 Portfolio: https://sarathendluri333.github.io/  
-🔗 LinkedIn: https://linkedin.com/in/sarath-endluri-0056242bb
+📧 chowdamnikhil515@gmail.com  
+🔗 Portfolio: https://github.com/Nikhilnikki0804/  
+🔗 LinkedIn: https://www.linkedin.com/in/nikhil-c-1738823a7?
 
 ---
 
